@@ -5,6 +5,7 @@
 - 📫 How to reach me: mail me at jack_rieswick@hotmail.com 📭
 
 - *Brasileiro, estudante de Análise e Desenvolvimento de Sistemas*
+- *Em busca de um estágio na área de TI*
 
 <!---
 JackRJr/JackRJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
