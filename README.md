@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 # Hello World! 👋
 
-Welcome to my Github page! <br/> 
-I am Jack and I am currently coursing Technologist in System Analysis and Development at Faculdade das Américas - FAM! <br/>
-Estimated graduation date -> July/2023
+Bem vindo a minha página do GitHub! <br/> 
+Meu nome é Jack e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade das Américas - FAM! <br/>
+Previsão de formatura em -> July/2023
 
 <hr>
 
@@ -29,25 +29,25 @@ Estimated graduation date -> July/2023
 
 <hr>
 
-#### 🌱 Things I am currently working on: 👀
-- Taking college in Technology
-- Taking online [courses](https://udemy.com) about Programming
-- Looking for an internship
-- Learning a lot with Bootcamps at [Digital Innovation One](https://digitalinnovation.one/)
-  ➡️Santander Bootcamp - Fullstack Developer <br/>
-  ➡️Everis New Talents - Java
+#### 🌱 Projetos em desenvolvimento: 👀
+- Cursando Faculdade em tecnologia
+- Fazendo [cursos](https://udemy.com) online sobre programação
+- Procurando por um estágio em TI
+- Aprendendo com os Bootcamps da [Digital Innovation One](https://digitalinnovation.one/)
+  ➡️*Santander Bootcamp - Fullstack Developer* <br/>
+  ➡️*Everis New Talents - Java*
 
 <hr>
 
-#### :muscle: Things I am challenging myself with: 👨‍💻
-- Doing coding exercises as much as I can
-- Studying at last 4 hours a day
-- Exercising to keep the balance
-- Improving my CV with some education apart from college <br/>
+#### :muscle: Como estou me desafiando: 👨‍💻
+- Fazendo exercícios de codificação
+- Estudando pelo menos 4h por dia
+- Exercitando o corpo para manter o equilíbrio
+- Melhorando meu CV estudando além da faculdade <br/>
 
 <hr> 
 
-#### :computer: Programming languages and tools that I'm learning: 
+#### :computer: Ferramentas de Programação que estou aprendendo: 
 
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>&nbsp;
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>&nbsp;
