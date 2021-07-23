@@ -28,6 +28,7 @@ Estimated graduation date -> July/2023
 <hr> 
 
 <img align="right" alt="img" src="img" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/JackRJr/JackRJr/blob/main/0001.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 👀
