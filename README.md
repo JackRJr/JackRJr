@@ -25,7 +25,9 @@ Estimated graduation date -> July/2023
 <img align="right" alt="img" src="https://github.com/JackRJr/JackRJr/blob/main/Parte%20superior%20hackathon%20escrito.jpg" width="50%" height="auto" />
 <img align="right" alt="img" src="https://github.com/JackRJr/JackRJr/blob/main/0001.jpg" width="50%" height="auto" />
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<code><img width="7%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>](https://github.com/JackRJr)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<code><img width="7%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></code>](https://www.linkedin.com/in/jackrjr/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<code><img width="7%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>](mailto:jack_rieswick@hotmail.com)
+[<code><img width="7%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>](https://github.com/JackRJr)
+[<code><img width="7%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></code>](https://www.linkedin.com/in/jackrjr/)
+[<code><img width="7%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>](mailto:jack_rieswick@hotmail.com)
 
 <hr>
 
