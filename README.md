@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 # Hello World! 👋
 
-### This is Jack Rieswick Junior! 🙋‍♂️
-
 Welcome to my Github page! <br/> 
 I am Jack and I am currently coursing Technologist in System Analysis and Development at Faculdade das Américas - FAM! <br/>
 Estimated graduation date -> July/2023
