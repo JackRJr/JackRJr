@@ -32,6 +32,7 @@ Previsão de formatura em -> July/2023
 
 <details>
  <summary> <b>🌱 Projetos em desenvolvimento: 👀 </b><i>(clique para expandir!)</i> </summary>
+ <br>
  
 - Cursando Faculdade em tecnologia
 - Fazendo [cursos](https://udemy.com) online sobre programação
@@ -45,6 +46,7 @@ Previsão de formatura em -> July/2023
 
 <details>
  <summary> <b>:muscle: Como estou me desafiando: :man_technologist:💻 </b><i>(clique para expandir!)</i> </summary>
+ <br>
  
 - Fazendo exercícios de codificação :nerd_face:
 - Estudando todos os dias :books:
@@ -56,7 +58,7 @@ Previsão de formatura em -> July/2023
 <details>
  <summary> <b> :grey_question: Curiosidades sobre mim:  </b><i>(clique para expandir!)</i> </summary>
 <br>
- Nas horas vagas gosto de:
+Nas horas vagas gosto de:
  
 - Tocar violão :guitar:
 - Assistir filmes e séries :tv:
