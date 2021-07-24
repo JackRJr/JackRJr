@@ -12,7 +12,7 @@ JackRJr/JackRJr is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello World! 👋
+# Hello World!  :trollface:
 
 Bem vindo a minha página do GitHub! <br/> 
 Meu nome é Jack e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade das Américas - FAM! <br/>
@@ -28,23 +28,42 @@ Previsão de formatura em -> July/2023
 [<code><img width="7%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg"></code>](mailto:jack_rieswick@hotmail.com)
 
 <hr>
+<br>
 
-#### 🌱 Projetos em desenvolvimento: 👀
+<details>
+ <summary> <b>🌱 Projetos em desenvolvimento: 👀 </b><i>(clique para expandir!)</i> </summary>
+ 
 - Cursando Faculdade em tecnologia
 - Fazendo [cursos](https://udemy.com) online sobre programação
 - Procurando por um estágio em TI
 - Aprendendo com os Bootcamps da [Digital Innovation One](https://digitalinnovation.one/)
   ➡️*Santander Bootcamp - Fullstack Developer* <br/>
-  ➡️*Everis New Talents - Java*
-
+  ➡️*Everis New Talents - Java*  
+</details>  
+  
 <hr>
 
-#### :muscle: Como estou me desafiando: 👨‍💻
-- Fazendo exercícios de codificação
-- Estudando pelo menos 4h por dia
-- Exercitando o corpo para manter o equilíbrio
-- Melhorando meu CV estudando além da faculdade <br/>
+<details>
+ <summary> <b>:muscle: Como estou me desafiando: :man_technologist:💻 </b><i>(clique para expandir!)</i> </summary>
+ 
+- Fazendo exercícios de codificação :nerd_face:
+- Estudando todos os dias :books:
+- Exercitando o corpo para manter o equilíbrio :running_man:
+- Aprimorando conhecimentos além da faculdade :bulb:
+</details> 
+<hr> 
 
+<details>
+ <summary> <b> :grey_question: Curiosidades sobre mim:  </b><i>(clique para expandir!)</i> </summary>
+<br>
+ Nas horas vagas gosto de:
+ 
+- Tocar violão :guitar:
+- Assistir filmes e séries :tv:
+- Praticar esportes :soccer:
+- Jogar jogos :chess_pawn:
+- Desenhar :art:
+</details> 
 <hr> 
 
 #### :computer: Ferramentas de Programação que estou aprendendo: 
