@@ -21,7 +21,7 @@ Previsão de formatura em -> July/2023
 <hr>
 
 <img align="right" alt="img" src="https://github.com/JackRJr/JackRJr/blob/main/Parte%20superior%20hackathon%20escrito.jpg" width="50%" height="auto" />
-<img align="right" alt="img" src="https://github.com/JackRJr/JackRJr/blob/main/0001.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/JackRJr/JackRJr/blob/main/Men%C3%A7%C3%A3o%20honrosa2.jpg" width="50%" height="auto" />
  
 [<code><img width="7%" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></code>](https://github.com/JackRJr)
 [<code><img width="7%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></code>](https://www.linkedin.com/in/jackrjr/)
